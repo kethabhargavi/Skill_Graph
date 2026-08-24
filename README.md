@@ -666,40 +666,53 @@ http://localhost:5173
 
 # 🖥️ Application Screenshots
 
-Add screenshots to the repository under:
+The following screenshots demonstrate the main user flows and interface of SkillGraph.
 
-```text
-screenshots/
-```
+## 🏠 Landing Page
 
-Recommended screenshots:
+The landing page introduces SkillGraph and provides users with a clear entry point to explore the technology knowledge graph.
 
-### 1. Homepage
-
-Show the main SkillGraph interface.
-
-### 2. Search Results
-
-Example:
-
-```text
-Search: Machine Learning
-```
-
-### 3. Knowledge Graph
-
-Show the graph generated after searching for a skill.
-
-### 4. Skill Library
-
-Show the categorized skill cards.
-
-### 5. Career Paths
-
-Show the available career roles and associated skills.
+![SkillGraph Landing Page](screenshots/Landing_page.png)
 
 ---
 
+## 🔎 Explore Page
+
+Users can search for skills, technologies, and career-related entities and view the corresponding search results.
+
+![SkillGraph Explore Page](screenshots/Explore_page.png)
+
+---
+
+## 🧠 Knowledge Graph
+
+The knowledge graph visualizes relationships between skills, technologies, projects, certifications, and career roles using an interactive React Flow interface.
+
+![SkillGraph Knowledge Graph](screenshots/Graph_page.png)
+
+---
+
+## 🏡 Home Page
+
+The main application interface provides navigation to the Skill Library, Career Paths, and Knowledge Graph.
+
+![SkillGraph Home Page](screenshots/Home%20page.png)
+
+---
+
+## 📚 Skills Page
+
+The Skills section organizes technical skills across different technology domains such as Programming, Cloud, DevOps, Data & Analytics, AI & Machine Learning, and Cybersecurity.
+
+![SkillGraph Skills Page](screenshots/Skills_page.png)
+
+---
+
+## 🧩 Technology Domains
+
+Technology domains provide a structured way to browse related technical skills and explore their connections.
+
+![SkillGraph Technology Domains](screenshots/Technology_Domain.png)
 # 🧩 Design Decisions
 
 ## Graph-Centered Architecture
